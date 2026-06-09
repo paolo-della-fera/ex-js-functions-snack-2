@@ -1,3 +1,4 @@
+// Funzione che stampa un messaggio ogni secondo
 function stampaOgniSecondo(messaggio) {
 
     setInterval(() => {
@@ -6,4 +7,5 @@ function stampaOgniSecondo(messaggio) {
 
 }
 
+// Esempio di utilizzo
 stampaOgniSecondo('questo è un Loop!')
